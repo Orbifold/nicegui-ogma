@@ -1,0 +1,1 @@
+This directory should contain the `ogma.js` file. You can download it via the [Linkurious Customer Center](https://get.linkurio.us/en/login).
